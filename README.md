@@ -1,1 +1,1 @@
-# WaveSync_Audio-_Analyzer
+# WaveSync_Audio_Analyzer
