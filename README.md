@@ -1,4 +1,3 @@
-# WaveSync_Audio_Analyzer
 # **WaveSync: Audio Analyzer**
 
 ### **Overview**
