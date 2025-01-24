@@ -1,0 +1,11 @@
+Here's the list of libraries needed:
+
+1) tkinter: This library comes pre-installed with Python and is used for GUI components.
+2) speech_recognition: This library helps in recognizing speech from audio files and the microphone input.
+3) wave: This is a built-in Python module for working with WAV audio files.
+4) numpy: A library for numerical operations, extensively used in scientific computing.
+5) matplotlib: A plotting library, particularly used here to visualize the audio waveforms.
+
+Use this command for install the packages:
+
+pip install speech_recognition numpy matplotlib
